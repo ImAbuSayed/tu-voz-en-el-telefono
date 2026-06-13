@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-voz-en-el-telefono/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tu voz en el teléfono](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-voz-en-el-telefono/) |
+| **Get License** | [Request Licensing for Tu voz en el teléfono](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-voz-en-el-telefono/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> It's midnight and your voice on the phone is calling me
+> With that soft and sexy tone that is setting me free
+> Tell me where you are tonight, I'm pulling up to your door
+> Feeling the heat of your body, always leaving me wanting more
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
