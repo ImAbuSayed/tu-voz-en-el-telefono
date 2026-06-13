@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu voz en el teléfono
+
+This log tracks the cryptographic history and versioning for the song **Tu voz en el teléfono** (tu-voz-en-el-telefono).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T18:34:14.518238 | `v1` | `e180125937387b8a422ec42b97517e87aa75228b0207220c4f1c535afabf4a5c` | `0a58ca5f1752bca5ed7900b8f412d07b4ae0fbbf4ba55e695bfb846b911a1028` | `2026-06-13_tu-voz-en-el-telefono-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

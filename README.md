@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-voz-en-el-telefono/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Tu voz en el teléfono](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-voz-en-el-telefono/) |
+| **Get License** | [Get License For Tu voz en el teléfono](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-voz-en-el-telefono/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e180125937387b8a422ec42b97517e87aa75228b0207220c4f1c535afabf4a5c` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
